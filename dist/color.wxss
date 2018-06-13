@@ -1,0 +1,35 @@
+.bgColor-1 {
+  background-color: #6675fb; }
+
+.bgColor-2 {
+  background-color: #32d45c; }
+
+.bgColor-3 {
+  background-color: #fecf48; }
+
+.bgColor-4 {
+  background-color: #fc5165; }
+
+.bgColor-5 {
+  background-color: #1995fb; }
+
+.bgColor-6 {
+  background-color: #e07049; }
+
+.bgColor-7 {
+  background-color: #44fac6; }
+
+.bgColor-8 {
+  background-color: #945eee; }
+
+.bgColor-9 {
+  background-color: #fa77ae; }
+
+.bgColor-10 {
+  background-color: #8de6a5; }
+
+.bgColor-11 {
+  background-color: #76d4d2; }
+
+.bgColor-12 {
+  background-color: #a5eeee; }

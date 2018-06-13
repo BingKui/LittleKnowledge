@@ -1,0 +1,12 @@
+<template name="ListItem">
+    <block>
+        <view class="list-item">
+            <image src="{{image}}" />
+            <text class="item-title" wx:key="{{title}}">{{title}}</text>
+            <view class="item-category-list">
+                <text wx:key="{{i}}" class="bgColor-5 item-category" wx:for="{{category}}"
+                wx:for-item="i">{{i}}</text>
+            </view>
+        </view>
+    </block>
+</template>

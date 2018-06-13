@@ -1,0 +1,8 @@
+<import src="../../components/ListItem.wxml" />
+<block>
+    <view class="index">
+        <scroll-view class="list" scroll-y>
+            <template is="ListItem" data="{{...item}}" wx:for="{{MockData}}" wx:for-item="item"></template>
+        </scroll-view>
+    </view>
+</block>

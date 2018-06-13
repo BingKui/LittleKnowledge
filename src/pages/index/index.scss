@@ -1,0 +1,33 @@
+@import '../../color.scss';
+.list {
+  display: block;
+  width: 100%;
+  padding: 0 2%;
+  .list-item {
+    width: 44%;
+    float: left;
+    margin: 2%;
+    box-shadow: 0 0 10px #BCC0C3;
+    border-radius: 10px;
+    overflow: hidden;
+    image {
+      width: 100%;
+      height: 200px;
+    }
+    .item-title {
+      font-size: 32px;
+      padding: 10px;
+    }
+    .item-category-list {
+      padding: 10px;
+      padding-top: 0;
+      .item-category {
+        font-size: 24px;
+        margin-right: 10px;
+        padding: 5px 10px;
+        border-radius: 5px;
+        color: #ffffff;
+      }
+    }
+  }
+}
